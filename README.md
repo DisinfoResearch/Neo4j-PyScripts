@@ -1,5 +1,7 @@
 # Neo4j-PyScripts
 
+**THIS PROJECT IS CURRENTLY NONFUNCTION AND IS NOW DISCONTINUED DUE TO API CHANGES AT TWITTER ALONG WITH LEGAL CONCERNS**
+
 ## Usage Notes
 These scripts were used with the Neo4j Desktop application, with each database dedicated to a single analysis group. The JSON data used and expected is the output of [twarc](https://github.com/DocNow/twarc) users command. See _grabuser.sh_.
 
